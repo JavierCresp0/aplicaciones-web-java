@@ -1,0 +1,20 @@
+# Private keys — NEVER commit
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Java / Tomcat
+*.class
+*.jar
+*.war
+target/
+work/
+logs/
+.settings/
+.classpath
+.project
+
+# OS
+Thumbs.db
+.DS_Store
